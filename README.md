@@ -20,7 +20,7 @@ We utilized an A4-sized template featuring six circles of varying diameters (1 c
 **Distortion Calibration**
 We captured images of chessboard pattern using three different camera trap models. We then performed distortion calibration algorithm to extract intrinsic and extrinsic parameters along with the distortion coefficients to undistort or correct the distorted original images captured by camera trap models.
 <p float="left">
-  <img src="data/output/distorted.jpg" width="300" />
+  <img src="data/output/distorted.JPG" width="300" />
   <img src="data/output/corrected.jpg" width="300" />
 </p>
 
