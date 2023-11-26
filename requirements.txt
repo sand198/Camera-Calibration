@@ -1,0 +1,10 @@
+#Python dependencies required for the development
+opencv-python
+numpy
+matplotlib
+time
+os
+skimage
+scipy
+
+
